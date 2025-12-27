@@ -169,4 +169,3 @@ MIT License
 
 ---
 
-Made with ❤️ by PantryPal Team
